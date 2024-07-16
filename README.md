@@ -1,6 +1,6 @@
-- 👋 Hi, I’m TESFAMICHAEL TAFERE 
-- 👀 I’m interested in adventure of hard working...
-- 🌱 I’m currently learning software engineering at AASTU Ethiopia...
+- 👋 Hi there, I’m TESFAMICHAEL TAFERE 
+- 🌱 I’m currently learning software engineering at AASTU Ethiopia
+- 👀 I’m a tech savvy and enjoy learing new things about tech
 - 📫 How to reach me: - email address: tesfamichaeltafere@gmail.com
                        - Telegram: hopmeek12
 <!---
