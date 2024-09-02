@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-👋 Hi there, I’m TESFAMICHAEL TAFERE<br>🌱 I’m currently learning software engineering at AASTU Ethiopia<br>👀 I’m tech savvy and enjoy learning new things<br>📫 How to reach me: email address: tesfamichaeltafere@gmail.com - Telegram: @hopmic
+👋 Hi there, I’m TESFAMICHAEL TAFERE<br>🌱 I’m currently learning software engineering at AASTU Ethiopia<br>👀 I’m tech savvy and enjoy learning new things<br>📫 How to reach me: email address: tesfamichael132@gmail.com - Telegram: @hopmic
 
 
 # 💻 Tech Stack:
