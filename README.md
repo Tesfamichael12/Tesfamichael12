@@ -3,8 +3,12 @@
 # 💫 About Me:
 
 <p align="center">
-  <a href="https://github.com/Tesfamichae12"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Tesfamichae12">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder%20on%20a%20Journey;Front-End%20Developer%20with%20Heart;Learning%20Every%20Step%20of%20the%20Way;1.5%2B%20Years%20of%20Coding%20Experience;Lover%20of%20Creativity%20and%20Growth&center=true&width=500&height=50">
+  </a>
 </p>
+
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style>
 </h2> Hi there, I’m TESFAMICHAEL TAFERE<br>🌱 Currently learning software engineering at AASTU Ethiopia<br>👀 A tech savvy and enjoy learning new things<br>📫 How to reach me: email address: tesfamichael132@gmail.com 
 <br>
