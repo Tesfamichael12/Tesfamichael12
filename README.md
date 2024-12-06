@@ -1,4 +1,12 @@
-## [![](https://visitcount.itsvg.in/api?id=Tesfamichael12&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tesfamichael12&icon=6&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+
+# Country Rank
+
+[![committers.top badge](https://user-badge.committers.top/ethiopia/Tesfamichael12.svg)](https://user-badge.committers.top/ethiopia/Tesfamichael12)
+
+</div>
 
 # 💫 About Me:
 
@@ -7,7 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder%20on%20a%20Journey;Front-End%20Developer%20with%20Heart;Learning%20Every%20Step%20of%20the%20Way;1.5%2B%20Years%20of%20Coding%20Experience;Lover%20of%20Creativity%20and%20Growth&center=true&width=500&height=50">
   </a>
 </p>
-
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style>
 </h2> Hi there, I’m TESFAMICHAEL TAFERE<br>🌱 Currently learning software engineering at AASTU Ethiopia<br>👀 A tech savvy and enjoy learning new things<br>📫 How to reach me: email address: tesfamichael132@gmail.com 
@@ -74,7 +81,6 @@
 
 <br/>
 
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Tesfamichael12&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -117,4 +123,3 @@
 <br/>
 
 <hr> </hr>
-
