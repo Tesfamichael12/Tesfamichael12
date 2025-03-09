@@ -114,9 +114,9 @@
 <br/>
 <br/>
 
-<!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=RED_Falcon&theme=dark&force_username=true&title_color=ff0000)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Meek_12&theme=dark&force_username=true&title_color=ff0000)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hopmic?ext=heatmap&theme=dark) -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/hopmic?ext=heatmap&theme=dark)
 
 </div>
 
