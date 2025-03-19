@@ -1,6 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Tesfamichael12&icon=6&color=0)](https://visitcount.itsvg.in)
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=Tesfamichael12&abbreviated=true)
 
 # Country Rank
 
