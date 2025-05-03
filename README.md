@@ -1,126 +1,96 @@
-[![](https://visitcount.itsvg.in/api?id=Tesfamichael12&icon=6&color=0)](https://visitcount.itsvg.in)
-<div align="center">
+# Hi, I'm Tesfamichael Tafere 👨‍💻
 
-![](https://komarev.com/ghpvc/?username=Tesfamichael12&abbreviated=true)
+![Profile Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-# Country Rank
+---
 
-[![committers.top badge](https://user-badge.committers.top/ethiopia/Tesfamichael12.svg)](https://user-badge.committers.top/ethiopia/Tesfamichael12)
+| ![Profile views](https://komarev.com/ghpvc/?username=Tesfamichael12&abbreviated=true) |     | [![committers.top badge](https://user-badge.committers.top/ethiopia/Tesfamichael12.svg)](https://user-badge.committers.top/ethiopia/Tesfamichael12) |
+| :-----------------------------------------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder%20on%20a%20Journey;Front-End%20Developer%20with%20Heart;Learning%20Every%20Step%20of%20the%20Way;2%2B%20Years%20of%20Coding%20Experience;Lover%20of%20Creativity%20and%20Growth&center=true&width=600&height=50&pause=1000&color=00FF00&vCenter=true&size=25)
 
-# 💫 About Me:
+---
 
-<p align="center">
-  <a href="https://github.com/Tesfamichae12">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder%20on%20a%20Journey;Front-End%20Developer%20with%20Heart;Learning%20Every%20Step%20of%20the%20Way;1.5%2B%20Years%20of%20Coding%20Experience;Lover%20of%20Creativity%20and%20Growth&center=true&width=500&height=50">
-  </a>
-</p>
+## 👋 About Me
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style>
-</h2> Hi there, I’m TESFAMICHAEL TAFERE<br>🌱 Currently learning software engineering at AASTU Ethiopia<br>👀 A tech savvy and enjoy learning new things<br>📫 How to reach me: email address: tesfamichael132@gmail.com 
-<br>
-<br>
+> ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) **Hi there, I’m TESFAMICHAEL TAFERE!**
+>
+> 🌱 Currently a software engineering student at AASTU, Ethiopia.  
+> 👀 I'm a tech-savvy individual who enjoys exploring new technologies and concepts.  
+> 📫 How to reach me: [tesfamichael132@gmail.com](mailto:tesfamichael132@gmail.com)
 
-# 💻 Tech Stack:
+---
 
-<div align="center">
+<table><tr><td align="center">
 
-</div>
+## 🚀 Tech Stack
 
-<div align="center">
-  <h3>Languages<h3/>
+### **Languages**
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,java,typescript,powershell,matlab,bash,md&perline=8" />
-  </a>
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,java,typescript,powershell,matlab,bash,md&perline=8)
 
-<br/>
+### **Frameworks & Libraries**
 
-  <!-- <h3>Frameworks & Libraries<h3/>
+![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch,php,laravel,spring,flask&perline=8)
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch,&perline=6" />
-  </a>
+### **Tools of Trade**
 
-<br/>
+![Development Tools](https://skillicons.dev/icons?i=git,github,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix,figma&perline=8)
 
-  <h3>Tools of Trade </h3>
+### **Would Love to Learn**
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix,&perline=" />
-  </a>
+![Technologies to Learn](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase,swift,kotlin&perline=8)
 
-  <br/>
+### **Additional**
 
-<img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f' width=45></img>
-<img src='https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png' width=45></img>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbH-UpHQMdmoB1pVQ9L7jH88u6H15isaxQQ&usqp=CAU' width=45></img>
-<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/bettercap/images/bettercap-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=45></img> -->
+![Additional Skills](https://skillicons.dev/icons?i=linux,vscode,bash,arch)
 
-<br/>
+---
 
-  <h3>Would Love to Learn </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=" />
-  </a>
+## 📊 GitHub Stats & Activity
 
-<br/>
+![Tesfamichael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tesfamichael12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF00&line_height=25)
 
-<h3> Additional </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode" />
-  </a>
+![Tesfamichael's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tesfamichael12&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-<br/>
+![Tesfamichael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfamichael12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Tesfamichael12&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tesfamichael12&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfamichael12&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ## 🏆 GitHub Trophies
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Tesfamichael12&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+![Tesfamichael's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tesfamichael12&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&row=1)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tesfamichael12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+---
 
-![](https://github-trophies.vercel.app/?username=Tesfamichael12)
+## 🔝 Top Contributed Repositories
 
-### ✍️ Random Dev Quote
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Tesfamichael12&limit=5&theme=gotham&combine_all_yearly_contributions=true&hide_border=false)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
+## 💡 Random Dev Quote
 
-![](https://github-contributor-stats.vercel.app/api?username=Tesfamichael12&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<p align="center" >
+## 🏆 Competitive Programming
 
-</p>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Meek_12&theme=dark&force_username=true&title_color=ff0000&show_icons=true)
 
-<div align="center">
+![LeetCode Stats](https://leetcard.jacoblin.cool/hopmic?theme=dark&font=Syne%20Mono&ext=heatmap&border_radius=20&height=300)
 
-<br/>
-<br/>
+---
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Meek_12&theme=dark&force_username=true&title_color=ff0000)
+## 🤝 Connect with Me
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hopmic?ext=heatmap&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tesfamichael-tafere-15a587299/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hopmic)
 
-</div>
+---
 
-<br/>
+Made with ❤️ and ☕ by Tesfamichael Tafere
 
-<hr> </hr>
+</td></tr></table>
