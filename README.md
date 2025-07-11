@@ -106,7 +106,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Experimenting 🧑‍🔬 - at lease one mini project</b></td>
+    <td><b>Experimenting 🧑‍🔬</b></td>
     <td>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
