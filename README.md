@@ -3,7 +3,7 @@
 <!-- ![Profile Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) -->
 
 <div align="center" style="display: flex; gap: 24px; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=Tesfamichael12&abbreviated=true" alt="Profile views" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=Tesfamichael12" alt="Profile views" height="28" />
   <a href="https://user-badge.committers.top/ethiopia/Tesfamichael12" target="_blank" rel="noopener noreferrer">
     <img src="https://user-badge.committers.top/ethiopia/Tesfamichael12.svg" alt="committers.top badge" height="28" />
   </a>
