@@ -7,7 +7,7 @@
   <a href="https://user-badge.committers.top/ethiopia/Tesfamichael12" target="_blank" rel="noopener noreferrer">
     <img src="https://user-badge.committers.top/ethiopia/Tesfamichael12.svg" alt="committers.top badge" height="28" />
   </a>
-<!--   <a href="https://wakatime.com/@3eaaf4b5-9d23-4662-96ec-8fac15bb65dc"><img src="https://wakatime.com/badge/user/3eaaf4b5-9d23-4662-96ec-8fac15bb65dc.svg" alt="Total time coded since Apr 19 2025" /></a> -->
+  <a href="https://wakatime.com/@3eaaf4b5-9d23-4662-96ec-8fac15bb65dc"><img src="https://wakatime.com/badge/user/3eaaf4b5-9d23-4662-96ec-8fac15bb65dc.svg" alt="Total time coded since Apr 19 2025" /></a>
 </div>
 
 ## About Me
