@@ -10,7 +10,7 @@
 
 I'm a full-stack AI engineer in Addis Ababa, Ethiopia. I build AI products end to end: the interface people use, the services behind it, and the retrieval and agent systems underneath.
 
-Lately that means RAG pipelines, voice assistants and multi-agent automation on Next.js, Go and Python. I work with local and international clients, and I also build training data and evaluations for frontier AI models.
+My recent AI work has mostly been RAG pipelines, voice assistants and multi-agent automation, built with Next.js, Go and Python. I work with local and international clients, and I also build training data and evaluations for frontier AI models.
 
 ## Selected work
 
