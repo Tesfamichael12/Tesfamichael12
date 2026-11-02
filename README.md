@@ -1,150 +1,129 @@
-# 👋 **Hello there, I'm Tesfamichael Tafere 👨‍💻 ***a Full-Stack Developer*****
+<a href="https://mikeyhope.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tesfamichael12/Tesfamichael12/main/assets/cover-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tesfamichael12/Tesfamichael12/main/assets/cover-light.svg">
+    <img alt="Tesfamichael Tafere, Full-Stack AI Engineer. A request path through five layers: interface, services, agents, retrieval and data." src="https://raw.githubusercontent.com/Tesfamichael12/Tesfamichael12/main/assets/cover-light.svg" width="100%">
+  </picture>
+</a>
 
-<!-- ![Profile Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) -->
+[Portfolio](https://mikeyhope.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tesfamichael-tafere/) · [Email](mailto:tesfamichael132@gmail.com) · [Telegram](https://t.me/hopmic)
 
-<div align="center" style="display: flex; gap: 24px; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=Tesfamichael12" alt="Profile views" height="28" />
-  <a href="https://wakatime.com/@3eaaf4b5-9d23-4662-96ec-8fac15bb65dc"><img src="https://wakatime.com/badge/user/3eaaf4b5-9d23-4662-96ec-8fac15bb65dc.svg" alt="Total time coded since Apr 19 2025" /></a>
-</div>
+I'm a full-stack AI engineer in Addis Ababa, Ethiopia. I build AI products end to end: the interface people use, the services behind it, and the retrieval and agent systems underneath.
 
-## About Me
+Lately that means RAG pipelines, voice assistants and multi-agent automation on Next.js, Go and Python. I work with local and international clients, and I also build training data and evaluations for frontier AI models.
 
-> 🌍 Based in Addis Ababa, Ethiopia.  
-> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  
-> 💼 Experienced in building end-to-end web applications using Django, React, Next.js, Node.js, and PostgreSQL.  
-> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  
-> 📫 Reach me at: [tesfamichael132@gmail.com](mailto:tesfamichael132@gmail.com)
-
----
-
-<table><tr><td align="center">
-
-## 🚀 Tech Stack
+## Selected work
 
 <table>
-  <tr>
-    <td><b>Frontend 🖥️</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/React.js-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend 🛠️</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black" />
-      <img src="https://img.shields.io/badge/Prisma-677EEB?style=for-the-badge&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend Services 🔗</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
 <tr>
-    <td><b>Database 🗄️</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+**DineQ**
+
+Turns photos of paper menus into structured digital menus, then helps diners choose through a voice assistant grounded in a Pinecone RAG pipeline.
+
+`Next.js` `Go` `Pinecone` `OCR` `Voice AI`
+
+[Case study](https://mikeyhope.vercel.app/project/dineq-ai-menu-intelligence-platform)
+
+</td>
+<td width="50%" valign="top">
+
+**Ace Study**
+
+Turns a student's own material into study kits, adaptive quizzes and a text-and-voice tutor, with answers retrieved from that material.
+
+`Next.js` `RAG` `Hybrid search` `Reranking` `Voice AI`
+
+[Live](https://ace-exam-study.vercel.app/) · [Case study](https://mikeyhope.vercel.app/project/ace-study-ai-exam-prep)
+
+</td>
+</tr>
 <tr>
-    <td><b>Programming Languages 💻</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/JS/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps ⚙️</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Testing 🧪</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td><b>Cloud ☁️</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deployment 🚀</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-      <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Experimenting 🧑‍🔬</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" />
-      <img src="https://img.shields.io/badge/Jquery-ff4700?style=for-the-badge&logo=jquery&logoColor=white" />
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+**Autonomous Sales Engine**
+
+Stateful agents research, validate and draft outreach for B2B leads. Cut manual processing time by 92% at 10,000+ leads a month.
+
+`LangGraph` `n8n` `Go` `Milvus` `AWS`
+
+[Case study](https://mikeyhope.vercel.app/project/autonomous-multi-agent-sales-engine)
+
+</td>
+<td width="50%" valign="top">
+
+**SafeDriveGuardian**
+
+Scores driver fatigue on the device with computer vision, and pairs it with ESP32 firmware for crash detection and location-tagged SOS alerts.
+
+`Python` `OpenCV` `MediaPipe` `ESP32` `React`
+
+[Live](https://safe-dirve-guardian.vercel.app/) · [Source](https://github.com/Tesfamichael12/Smart-Real-Time-Driver-State-Monitoring-and-Emergency-Detection-System) · [Case study](https://mikeyhope.vercel.app/project/safe-drive-guardian-driver-monitoring-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Sanqa Trading**
+
+Production platform for a furniture and advertising company, with a real-time order engine, live staff chat and a headless CMS.
+
+`Next.js` `Node.js` `Socket.IO` `PostgreSQL` `Docker`
+
+[Live](https://www.sanqatradingplc.com) · [Case study](https://mikeyhope.vercel.app/project/sanqa-trading-furniture-advertising)
+
+</td>
+<td width="50%" valign="top">
+
+**Rivu**
+
+Local-first Android hydration companion. A shared React app talks to native Java services for reliable alarms, notifications and schedule recovery.
+
+`React` `TypeScript` `Capacitor` `Java` `Android`
+
+[Source](https://github.com/Tesfamichael12/Rivu) · [Case study](https://mikeyhope.vercel.app/project/rivu-local-first-hydration-companion)
+
+</td>
+</tr>
 </table>
 
----
+## Experience
 
-## 📊 GitHub Stats & Activity
+| Role | What I did |
+| :--- | :--- |
+| **Freelance Full-Stack Engineer**<br><sub>Self-employed · Current</sub> | Production web and mobile software for local and international clients, plus training data and evaluations for frontier AI models. |
+| **Head of Education**<br><sub>A2SV · 2026</sub> | Led data structures and algorithms training for 60 students, and built a progress platform used by 150+ students across three universities. |
+| **Software Engineering Intern**<br><sub>Kacha · 2025 to 2026</sub> | Owned leave management in a distributed HRMIS/ERP running across multiple companies, and built its full-stack OKR module. |
+| **Backend Mentor**<br><sub>GDG On Campus AASTU · 2025 to 2026</sub> | Mentored 50+ students in Node.js, REST API design and production practices. |
+| **Software Engineer Intern**<br><sub>Eskalate · 2025</sub> | Led a backend intern team shipping a REST API and real-time feed for 1k+ concurrent users at sub-200ms sync. Adaptive fraud detection cut scripted abuse by 95%. |
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tesfamichael12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF00&line_height=25" alt="Tesfamichael's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesfamichael12&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Tesfamichael's Streak" height="180" />
-</div>
+BSc in Software Engineering, Addis Ababa Science and Technology University, 2025. CGPA 3.8/4.0, Presidential Award.
 
----
+## Stack
 
-## 🏆 Competitive Programming
+<table>
+<tr><td valign="top"><strong>AI</strong></td><td><code>RAG</code> <code>Embeddings</code> <code>Hybrid search</code> <code>Reranking</code> <code>LangGraph</code> <code>n8n</code> <code>Pinecone</code> <code>Milvus</code> <code>OCR</code> <code>Voice AI</code> <code>OpenCV</code> <code>MediaPipe</code></td></tr>
+<tr><td valign="top"><strong>Languages</strong></td><td><code>Python</code> <code>TypeScript</code> <code>Go</code> <code>Rust</code> <code>Java</code> <code>C++</code></td></tr>
+<tr><td valign="top"><strong>Frontend</strong></td><td><code>React</code> <code>Next.js</code> <code>Tailwind CSS</code></td></tr>
+<tr><td valign="top"><strong>Backend</strong></td><td><code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>Django</code> <code>Prisma</code> <code>gRPC</code> <code>WebSockets</code></td></tr>
+<tr><td valign="top"><strong>Data</strong></td><td><code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>MySQL</code> <code>Supabase</code> <code>Neon</code> <code>Firebase</code></td></tr>
+<tr><td valign="top"><strong>Infrastructure</strong></td><td><code>Docker</code> <code>Kubernetes</code> <code>GitHub Actions</code> <code>Nginx</code> <code>AWS</code> <code>GCP</code> <code>Vercel</code> <code>Linux</code></td></tr>
+<tr><td valign="top"><strong>Testing</strong></td><td><code>Jest</code> <code>Vitest</code> <code>Cypress</code> <code>Postman</code></td></tr>
+</table>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Meek_12&theme=dark&force_username=true&show_icons=true" alt="Codeforces Stats" height="180" />
-  <img src="https://leetcard.jacoblin.cool/hopmic?theme=dark&font=Syne%20Mono&ext=heatmap&border_radius=20&height=180" alt="LeetCode Stats" height="180" />
-</div>
+## Track record
 
----
+<table>
+<tr>
+<td width="25%" valign="top"><h3>8,800+</h3><sub>GitHub contributions since 2023</sub></td>
+<td width="25%" valign="top"><h3>580+</h3><sub><a href="https://leetcode.com/u/hopmic/">LeetCode</a> problems solved</sub></td>
+<td width="25%" valign="top"><h3>280+</h3><sub><a href="https://codeforces.com/profile/Meek_12">Codeforces</a> problems solved</sub></td>
+<td width="25%" valign="top"><h3>40+</h3><sub>Coding contests</sub></td>
+</tr>
+</table>
 
-## 🤝 Connect with Me
+<img src="https://komarev.com/ghpvc/?username=Tesfamichael12&style=flat&color=555555&label=Profile+views" alt="Profile views"> <a href="https://wakatime.com/@3eaaf4b5-9d23-4662-96ec-8fac15bb65dc"><img src="https://wakatime.com/badge/user/3eaaf4b5-9d23-4662-96ec-8fac15bb65dc.svg?style=flat&color=555555" alt="Total time coded since Apr 19 2025"></a>
 
-<div align="center" style="display: flex; gap: 12px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/tesfamichael-tafere-15a587299/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
-  </a>
-  <a href="https://t.me/hopmic" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="36" />
-  </a>
-  <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="36" />
-  </a>
-</div>
-
----
+Have a project in mind? Email me at [tesfamichael132@gmail.com](mailto:tesfamichael132@gmail.com).
